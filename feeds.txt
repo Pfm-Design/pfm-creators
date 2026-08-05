@@ -15,3 +15,4 @@ https://codegolf.stackexchange.com/feeds
 https://feeds.macrumors.com/MacRumors-All
 https://feeds.simplecast.com/dCXMIpJz
 https://feeds.redcircle.com/242f92ca-a19a-412b-8f7d-9ce506e4c7bf
+https://anchor.fm/s/98e2f3e0/podcast/rss
